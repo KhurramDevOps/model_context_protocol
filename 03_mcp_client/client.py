@@ -33,9 +33,9 @@ class MyClientSession:
          await self.stack.aclose()
 
     
-    async def list_tools(self):
-        assert self._sess is not None, "Session not initialized"
-        return (await self._sess.list_tools()).tools
+    # async def list_tools(self):
+    #     assert self._sess is not None, "Session not initialized"
+    #     return (await self._sess.list_tools()).tools
     
     async def call_tool(self, tool_name, *args, **kwargs):
         return await self._sess.call_tool(tool_name, *args,**kwargs)
