@@ -3,11 +3,13 @@
 ---
 
 ## 🚀 What is Model Context Protocol (MCP)?
+---
 
 **Model Context Protocol (MCP)** is an open, standardized protocol that enables seamless integration between large language model (LLM) applications and external data sources, tools, and workflows. MCP provides a robust, extensible framework for sharing context, exposing capabilities, and building composable AI-powered systems.
 
 Whether you're building an AI IDE, enhancing a chat interface, or orchestrating complex agentic workflows, MCP is the universal connector for context-aware AI.
 
+---
 ---
 
 ## 🧩 Key Features
