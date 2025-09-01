@@ -9,7 +9,7 @@
 
 Whether you're building an AI IDE, enhancing a chat interface, or orchestrating complex agentic workflows, MCP is the universal connector for context-aware AI.
 
----
+
 ---
 
 ## 🧩 Key Features
