@@ -1,4 +1,4 @@
-# Introduction to JSON-RPC 2.0
+# Introduction to JSON-RPC 2.0!
 
 [Specification](https://www.jsonrpc.org/specification)
 
@@ -225,5 +225,6 @@ Protocols like MCP are designed for the **future of AI orchestration**, not just
 * Consistency and extensibility.
 
 **JSON-RPC is purpose-built for these requirements**, making it a far better fit than REST for advanced agent/model protocols. If you're planning to design LLM-based systems or integrate AI agents at scale, understanding and leveraging these design choices puts you way ahead!
+
 
 
